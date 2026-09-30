@@ -1,0 +1,8 @@
+Sunscreen,Mama Earth,119,1200.00,USA
+Moisturizer,CeraVe,330,5000.00,France
+Cleanser, Cetaphil,23,1050.00,USA
+Vitamin C Serum,Dr. Rashel,54,3200.00,UAE
+Eye Cream, Kiehl's,109,2800.00,USA
+Face Mask, Innisfree,105,800.00,Korea
+Toner,Paula's Choice,244,2500.00,USA
+lotion,La Vina,74,888.00,USA

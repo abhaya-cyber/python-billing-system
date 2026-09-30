@@ -1,0 +1,3 @@
+Minimum Price: NRS 800.00
+Maximum Price: NRS 3200.00
+Average Price: NRS 1660.00
